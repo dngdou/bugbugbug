@@ -1,4 +1,4 @@
-https://dngdou.github.io/somanybug/
+https://dngdou.github.io/bugbugbug/
 
 ```
 Assignment 03 Stater
